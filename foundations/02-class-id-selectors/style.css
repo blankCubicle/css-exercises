@@ -1,0 +1,18 @@
+.odd {
+  background-color: #f8a9b7;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.odd.cooler {
+  font-size: 24px;
+}
+
+#joe {
+  color: rgb(3, 76, 212);
+  font-size: 36px;
+}
+
+#jane {
+  background-color: hsl(147, 70%, 74%);
+  font-size: 24px;
+  font-weight: 700;
+}

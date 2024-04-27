@@ -1,0 +1,15 @@
+.inverted,
+.bright {
+  border-color: #000;
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.inverted {
+  background-color: #000;
+  color: #fff;
+  font-weight: bold;
+}
+.bright {
+  background-color: #ff0;
+  color: #000;
+}
